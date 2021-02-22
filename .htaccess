@@ -1,0 +1,6 @@
+# Custom error pages.
+ErrorDocument 404 /
+ErrorDocument 400 /
+ErrorDocument 401 /
+ErrorDocument 403 /
+ErrorDocument 500 /
